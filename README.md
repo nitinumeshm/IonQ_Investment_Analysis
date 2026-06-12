@@ -15,6 +15,7 @@ Analyse IonQ’s financial statements, stock trends, and business strategy to ev
 - Yahoo Finance
 - SEC Filings
 - Financial Ratio Analysis
+- Gemini
 
 ## Key Findings
 - Revenue grew 3x from 2024 to 2025
